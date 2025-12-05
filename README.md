@@ -1,4 +1,4 @@
-Agenda de Contatos – Projeto (Engenharia de Software)
+ # Agenda de Contatos – Projeto (Engenharia de Software)
 
 Aplicação gráfica desenvolvida em Python usando Tkinter, com banco de dados SQLite e funções de:
 
@@ -9,12 +9,12 @@ Aplicação gráfica desenvolvida em Python usando Tkinter, com banco de dados S
 - Categorias: "Pessoal" e "Profissional"  
 - Dados salvos localmente em `contatos.db`
 
-## 🎯 Funcionalidades
+## Funcionalidades
 - Banco de dados local (SQLite)
 - Bloqueio automático para aceitar apenas números no campo de telefone
 - Arquivo executável (.exe) incluído
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python 3.10
 - Tkinter
 - SQLite3
